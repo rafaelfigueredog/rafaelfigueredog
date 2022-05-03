@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-end and Back-end development.**
 
-- 💬 Ask me about **Data Structures Algorithms and C++**
+- 💬 Ask me about **Data Structures, Algorithms, C++, JavaScript and ReactJs**
 
 - 📫 How to reach me **rafaelfigueredog@gmail.com**
 
