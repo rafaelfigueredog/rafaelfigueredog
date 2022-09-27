@@ -10,7 +10,6 @@
 
 - Full Stack Software Engineering
 - Data Structures and Algorithms
-- Problem Solving
 - System Design 
 - Microservices 
 - Design Patterns
@@ -31,11 +30,16 @@
 - [Graph theory](https://github.com/rafaelfigueredog/Grafos) Projects related of graph theory discipline assignments.
 - [Embedded BitMap](https://github.com/rafaelfigueredog/Bitmap) Implemented a Low Level Data Structure for Embedded Systems applications. 
 - [Data Structures in C](https://github.com/rafaelfigueredog/DataStructures) Implemented Data Structures in C as a discipline assigment. 
+- [Simplifier Boolean Expressions (Quine-McCluskey)](https://github.com/rafaelfigueredog/Quine-McCluskey) My first low level project for algorithms discipline, developed in **Python 3**.  
 
 #### Extracurricular Activities
 
 - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. [(Certificate)](https://www.coursera.org/account/accomplishments/verify/5SX2EY4FBYGH)
-- [Data Structures](https://www.coursera.org/learn/data-structures)  In this online course, we consider the common data structures that are used in various computational problems like **Binary Search Tree**, **Priority Queue**, **Hash Table**, **Stack**, **Queue**, **Lists** and **Arrays**. [(Certificate)](https://www.coursera.org/account/accomplishments/verify/XBWRX5WQZ3RN)
+- [Data Structures](https://www.coursera.org/learn/data-structures) In this online course, we consider the common data structures that are used in various computational problems like **Binary Search Tree**, **Priority Queue**, **Hash Table**, **Stack**, **Queue**, **Lists** and **Arrays**. [(Certificate)](https://www.coursera.org/account/accomplishments/verify/XBWRX5WQZ3RN)
+
+## Awards 
+- **Google Code Jam:** Attained 42 pts at the round A by solving 60% of problems. [(Solutions)](https://github.com/rafaelfigueredog/CodeJam) (2020)
+- **ICPC:** Honorable Mention at the South America/Brazil International Collegiate Programming Contest. [(Credential)](https://icpc.global/ICPCID/JZNEIFNPZ9H4) (2020, 2021)
 
 ## Skills
 
