@@ -1,36 +1,46 @@
-<h1 align="center">Hi everyone 👋, I'm Rafael Guimarães</h1>
-<h3 align="center">A graduate computer engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working at Smartiks on Powerdoc (https://www.smartiks.com/powerdoc)
-
-- 🌱 I’m currently learning **Front-end and Back-end development.**
-
-- 💬 Ask me about **Data Structures, Algorithms, C++, JavaScript and ReactJs**
-
-- 📫 How to reach me **rafaelfigueredog@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rafaelfigueredog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelfigueredog" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rafaelfigueredog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rafaelfigueredog" height="30" width="40" /></a>
-<!--<a href="https://codeforces.com/profile/rafaelfigueredog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rafaelfigueredog" height="30" width="40" /></a>
-<a href="https://medium.com/@rafaelfigueredog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rafaelfigueredog" height="30" width="40" /></a> -->
-</p>
-
-<h3 align="left">Programming Languages and Tools:</h3>
-
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+# Rafael Guimarães
 
 
-<p align="left"> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+## About me
+- Currently **Full Stack Software Engineer** at [Institute SENAI of Technology](https://www.portaldaindustria.com.br/senai/)
+- Graduated **Bachelors degree in Computer Engineering** at [Federal Institute of Education, Science and Technology of Paraíba](https://www.ifpb.edu.br/en)
+
+#### Interests
+
+- Full Stack Software Engineering
+- Data Structures and Algorithms
+- Problem Solving
+- System Design 
+- Microservices 
+- Design Patterns
+- Clean Code
+
+#### Links
+
+- [LinkedIn](https://www.linkedin.com/in/rafaelfigueredog/)
+- [HackerRank](https://www.hackerrank.com/rafaelfigueredog)
+
+#### Projects 
+
+- [Effective Notes](https://effectivenotes.netlify.app/) An app that simulates the Kanban process by allowing users to create notes and manage tasks using **JavaScript** ans **ReactJs.**
+- [Dynamic Degrees](https://dynamicdegrees.netlify.app/courses) An open source project with JavaScript and the Depth‑First Search (DFS) algorithm to show the connections between the curricular components of some IFPB degrees. 
+- [LGPD Compliance](https://lgpdcompliance.com/#/) A platform created to help professionals to appropriately design their projects with LGPD. ([see more](https://github.com/LGPDCompliance))
+- [Embedded Temperature Monitor](https://embedded-dashboad.netlify.app/) Design and implemented a real‑time system for monitoring temperature and humidity in environments, with an embedded system, a database connection, and a dashboard created with JavaScript and C++. ([see more](https://github.com/JoaocGuerra/SistemasEmbarcadosProjeto)) 
+- [Object Orientend Programming Problems](https://github.com/rafaelfigueredog/ObjectOrientedProgramming) Solved many problems in **Java** using Object Oriented Programming approach as discipline assigments. 
+- [Graph theory](https://github.com/rafaelfigueredog/Grafos) Projects related of graph theory discipline assignments.
+- [Embedded BitMap](https://github.com/rafaelfigueredog/Bitmap) Implemented a Low Level Data Structure for Embedded Systems applications. 
+- [Data Structures in C](https://github.com/rafaelfigueredog/DataStructures) Implemented Data Structures in C as a discipline assigment. 
+
+#### Extracurricular Activities
+
+- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. [(Certificate)](https://www.coursera.org/account/accomplishments/verify/5SX2EY4FBYGH)
+- [Data Structures](https://www.coursera.org/learn/data-structures)  In this online course, we consider the common data structures that are used in various computational problems like **Binary Search Tree**, **Priority Queue**, **Hash Table**, **Stack**, **Queue**, **Lists** and **Arrays**. [(Certificate)](https://www.coursera.org/account/accomplishments/verify/XBWRX5WQZ3RN)
+
+## Skills
+
+- **Programming Languages:** JavaScript, TypeScript, Python, C/C++, Java, HTML5, CSS. 
+- **Frameworks and Libraries:** ReactJs, React Native, ExpressJs, ElasticSearch, Tailwind.
+- **Databases:** MySQL, Postgrees, Oracle
+- **Tools:** Docker
+- **Operational Systems:** Linux, Windows
