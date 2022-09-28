@@ -30,7 +30,9 @@
 - [Graph theory](https://github.com/rafaelfigueredog/Grafos) Projects related of graph theory discipline assignments.
 - [Embedded BitMap](https://github.com/rafaelfigueredog/Bitmap) Implemented a Low Level Data Structure for Embedded Systems applications. 
 - [Data Structures in C](https://github.com/rafaelfigueredog/DataStructures) Implemented Data Structures in C as a discipline assigment. 
-- [Simplifier Boolean Expressions (Quine-McCluskey)](https://github.com/rafaelfigueredog/Quine-McCluskey) My first low level project for algorithms discipline, developed in **Python 3**.  
+- [Numerical methods](https://github.com/rafaelfigueredog/NumericalAnalysis) Implemented solutions for numerical problems in Python like: **Hybrid Root Search Algorithm**, **PageRank** and others.
+- [Simplifier Boolean Expressions (Quine-McCluskey)](https://github.com/rafaelfigueredog/Quine-McCluskey) My first low level project for algorithms discipline, developed in **Python 3**.
+
 
 #### Extracurricular Activities
 
@@ -44,7 +46,7 @@
 ## Skills
 
 - **Programming Languages:** JavaScript, TypeScript, Python, C/C++, Java, HTML5, CSS. 
-- **Frameworks and Libraries:** ReactJs, React Native, ExpressJs, ElasticSearch, Tailwind.
+- **Frameworks and Libraries:** ReactJs, React Native,Redux, ExpressJs, ElasticSearch, Tailwind. 
 - **Databases:** MySQL, Postgrees, Oracle
 - **Tools:** Docker
 - **Operational Systems:** Linux, Windows
