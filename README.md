@@ -23,7 +23,7 @@
 #### Projects 
 
 - [Senai Experience](https://senaisolucoes.com.br/experience/metaverse/ist) Contributed to the front-end of software development for Senai Experience, an MVP educational platform for 360° videos and Metaverse learning environment.
-- [Effective Notes](https://effectivenotes.netlify.app/) An app that simulates the Kanban process by allowing users to create notes and manage tasks using **JavaScript** ans **ReactJs.**
+- [Effective Notes](https://effectivenotes.netlify.app/) An app that simulates the Kanban process by allowing users to create notes and manage tasks.
 - [Dynamic Degrees](https://dynamicdegrees.netlify.app/courses) An open source project with JavaScript and the Depth‑First Search (DFS) algorithm to show the connections between the curricular components of some IFPB degrees. 
 - [LGPD Compliance](https://lgpdcompliance.com/#/) A platform created to help professionals to appropriately design their projects with LGPD. ([see more](https://github.com/LGPDCompliance))
 - [Embedded Temperature Monitor](https://embedded-dashboad.netlify.app/) Design and implemented a real‑time system for monitoring temperature and humidity in environments, with an embedded system, a database connection, and a dashboard created with JavaScript and C++. ([see more](https://github.com/JoaocGuerra/SistemasEmbarcadosProjeto)) 
