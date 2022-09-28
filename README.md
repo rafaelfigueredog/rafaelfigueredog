@@ -51,6 +51,6 @@
 - **Tools:** Docker
 - **Operational Systems:** Linux, Windows
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelfigueredog&show_icons=true&locale=en" alt="rafaelfigueredog" /></p>
+## Contributions
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelfigueredog&" alt="rafaelfigueredog" /></p>
