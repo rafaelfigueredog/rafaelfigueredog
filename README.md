@@ -50,3 +50,7 @@
 - **Databases:** MySQL, Postgrees, Oracle, Watermelon Database (Mobile Applications), Prisma ORM.
 - **Tools:** Docker
 - **Operational Systems:** Linux, Windows
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelfigueredog&show_icons=true&locale=en&layout=compact" alt="rafaelfigueredog" /></p>
+
