@@ -46,8 +46,8 @@
 
 ## Skills
 
-- **Programming Languages:** JavaScript, TypeScript, Python, C/C++, Java, HTML5, CSS. 
-- **Frameworks and Libraries:** ReactJs, React Native,Redux, ExpressJs, ElasticSearch, Tailwind. 
+- **Programming Languages:** JavaScript, TypeScript, NodeJs, Python, C/C++, Java, HTML5, CSS. 
+- **Frameworks and Libraries:** ReactJs, React Native, Redux, ExpressJs, ElasticSearch, Tailwind. 
 - **Databases:** MySQL, Postgrees, Oracle, Watermelon Database (Mobile Applications), Prisma ORM.
 - **Tools:** Docker
 - **Operational Systems:** Linux, Windows
