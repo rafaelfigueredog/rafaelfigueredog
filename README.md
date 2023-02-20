@@ -27,7 +27,7 @@
 - [LGPD Compliance](https://lgpdcompliance.com/#/) Contributed on developed and deploy of a platform created to help professionals to appropriately design their projects with LGPD. ([see more](https://github.com/LGPDCompliance))
 - [Embedded Temperature Monitor](https://embedded-dashboad.netlify.app/) Design and implemented a real‑time system for monitoring temperature and humidity in environments, with an embedded system, a database connection, and a dashboard created with JavaScript and C++. ([see more](https://github.com/JoaocGuerra/SistemasEmbarcadosProjeto)) 
 - [Object Orientend Programming Problems](https://github.com/rafaelfigueredog/ObjectOrientedProgramming) Solved many problems in **Java** using Object Oriented Programming approach as discipline assigments. 
-- [Graph theory](https://github.com/rafaelfigueredog/Grafos) Projects related of graph theory discipline assignments.
+- [Graph Theory Assignments](https://github.com/rafaelfigueredog/Grafos) Projects related of graph theory discipline assignments.
 - [Bitmap Library](https://github.com/rafaelfigueredog/Bitmap) This is a C library for handling bitmaps. It includes functions for initializing a BitmapSet, setting and unsetting bits, retrieving the value of a bit, and printing the binary value of a BitmapSet. 
 - [Data Structures in C](https://github.com/rafaelfigueredog/DataStructures) Implemented Data Structures in C as a discipline assigment. 
 - [Numerical methods](https://github.com/rafaelfigueredog/NumericalAnalysis) Implemented solutions for numerical problems like: **Hybrid Root Search Algorithm**, **PageRank** and others.
