@@ -15,7 +15,7 @@
 - Design Patterns
 - Clean Code
 
-#### Links
+#### Social Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/rafaelfigueredog/)
 - [HackerRank](https://www.hackerrank.com/rafaelfigueredog)
