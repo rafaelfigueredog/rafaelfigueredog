@@ -19,6 +19,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/rafaelfigueredog/)
 - [HackerRank](https://www.hackerrank.com/rafaelfigueredog)
+- [freeCodeCamp](https://www.freecodecamp.org/rafaelguimaraes)
 
 #### Projects 
 - [Dynamic Degrees](https://dynamicdegrees.netlify.app/courses) An open source project with JavaScript and the Depth‑First Search (DFS) algorithm to show the connections between the curricular components of some IFPB degrees.
