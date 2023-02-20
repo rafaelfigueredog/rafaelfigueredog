@@ -30,7 +30,7 @@
 - [Graph Theory Assignments](https://github.com/rafaelfigueredog/Grafos) Projects related of graph theory discipline assignments.
 - [Bitmap Library](https://github.com/rafaelfigueredog/Bitmap) This is a C library for handling bitmaps. It includes functions for initializing a BitmapSet, setting and unsetting bits, retrieving the value of a bit, and printing the binary value of a BitmapSet. 
 - [Data Structures in C](https://github.com/rafaelfigueredog/DataStructures) Implemented Data Structures in C as a discipline assigment. 
-- [Numerical methods](https://github.com/rafaelfigueredog/NumericalAnalysis) Implemented solutions for numerical problems like: **Hybrid Root Search Algorithm**, **PageRank** and others.
+- [Numerical Analysis](https://github.com/rafaelfigueredog/NumericalAnalysis) Implemented solutions for numerical problems like: **Hybrid Root Search Algorithm**, **PageRank** and others.
 - [Simplifier Boolean Expressions (Quine-McCluskey)](https://github.com/rafaelfigueredog/Quine-McCluskey) My first low level project for algorithms discipline, developed in **Python 3**.
 
 
