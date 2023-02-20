@@ -31,6 +31,7 @@
 - [Bitmap Library](https://github.com/rafaelfigueredog/Bitmap) This is a C library for handling bitmaps. It includes functions for initializing a BitmapSet, setting and unsetting bits, retrieving the value of a bit, and printing the binary value of a BitmapSet. 
 - [Data Structures in C](https://github.com/rafaelfigueredog/DataStructures) Implemented Data Structures in C as a discipline assigment. 
 - [Numerical Analysis](https://github.com/rafaelfigueredog/NumericalAnalysis) Implemented solutions for numerical problems like: **Hybrid Root Search Algorithm**, **PageRank** and others.
+- [Analysis and Algorithm Techniques](https://github.com/rafaelfigueredog/AnalysisAndAlgorithmTechniques) Analysis and Algorithm Techniques Assignments.
 - [Simplifier Boolean Expressions (Quine-McCluskey)](https://github.com/rafaelfigueredog/Quine-McCluskey) My first low level project for algorithms discipline, developed in **Python 3**.
 
 
