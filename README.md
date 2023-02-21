@@ -1,18 +1,17 @@
 
 # Rafael Guimarães
 
-
 ## About me
-- Currently **Full Stack Software Engineer** at [Institute SENAI of Technology](https://www.portaldaindustria.com.br/senai/)
+- Currently **Software Engineer** at [Institute SENAI of Technology](https://www.portaldaindustria.com.br/senai/)
 - Graduated **Bachelors degree in Computer Engineering** at [Federal Institute of Education, Science and Technology of Paraíba](https://www.ifpb.edu.br/en)
 
 ## Interests
 
-- Full Stack Software Engineering
+- Software Engineering
 - Data Structures and Algorithms
 - System Design 
-- Microservices 
 - Design Patterns
+- SOLID Principles.
 - Clean Code
 
 ## Social Profiles
