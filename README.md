@@ -37,6 +37,9 @@ Built an authentication service using NestJS, TypeScript, and Node.js that enabl
 ### [Embedded Temperature Monitor](https://embedded-dashboad.netlify.app/) 
 Designed and implemented a real-time system for monitoring temperature and humidity in environments using an embedded system, a database connection, and a dashboard created with JavaScript and C++. The system includes features such as sensor data collection, real-time data visualization, and data logging. ([see more](https://github.com/JoaocGuerra/SistemasEmbarcadosProjeto)) 
 
+### [TeachRank](https://github.com/rafaelfigueredog/TeachRank)
+This project propose optimize and allocate teachers to courses at IFPB based on qualifications and workload. Use priority ranking and alter teacher states for an efficient and fair allocation.
+
 ### [Object Orientend Programming Problems](https://github.com/rafaelfigueredog/ObjectOrientedProgramming) 
 Solved many problems in Java using an object-oriented programming approach as part of coursework. This involved designing and implementing solutions for various programming problems, such as sorting algorithms and data structures.
 
