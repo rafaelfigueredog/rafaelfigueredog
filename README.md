@@ -23,10 +23,10 @@
 
 ## Projects 
 ### [Dynamic Degrees](https://dynamicdegrees.netlify.app/courses) 
-Developed an open-source project using JavaScript and the Depth-First Search (DFS) algorithm to illustrate the connections between the curricular components of some IFPB degrees.
+Developed an open-source project using JavaScript and the Depth-First Search (DFS) algorithm to illustrate the connections between the curricular components of some IFPB degrees. ([see more](https://github.com/rafaelfigueredog/DynamicDegrees))
 
 ### [Effective Notes](https://effectivenotes.netlify.app/) 
-Created an app that simulates the Kanban process, allowing users to create notes and manage tasks effectively.
+Created an app that simulates the Kanban process, allowing users to create notes and manage tasks effectively. ([see more](https://github.com/rafaelfigueredog/EffectiveNotes))
 
 ### [LGPD Compliance](https://lgpdcompliance.com/#/) 
 Contributed to the development and deployment of a platform designed to help professionals appropriately design their projects with LGPD compliance in mind. The platform includes features such as data classification, user management, and report generation. ([see more](https://github.com/LGPDCompliance))
@@ -64,8 +64,12 @@ Developed my first low-level project for an algorithms course using Python 3. Th
 
 ## Extracurricular Activities
 
+### [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+Learn to build back-end applications with Node.js and npm, create web apps using the Express framework, and develop microservices with MongoDB and Mongoose [(Certificate)](https://www.freecodecamp.org/certification/rafaelguimaraes/back-end-development-and-apis)
+
 ### [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) 
 This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. [(Certificate)](https://www.coursera.org/account/accomplishments/verify/5SX2EY4FBYGH)
+
 ### [Data Structures](https://www.coursera.org/learn/data-structures) 
 In this online course, we consider the common data structures that are used in various computational problems like **Binary Search Tree**, **Priority Queue**, **Hash Table**, **Stack**, **Queue**, **Lists** and **Arrays**. [(Certificate)](https://www.coursera.org/account/accomplishments/verify/XBWRX5WQZ3RN)
 
