@@ -80,7 +80,7 @@ In this online course, we consider the common data structures that are used in v
 
 - **Programming Languages:** JavaScript, TypeScript, NodeJs, Python, C/C++, Java, HTML5, CSS. 
 - **Frameworks and Libraries:** ReactJs, React Native, Redux, ExpressJs, ElasticSearch, Tailwind. 
-- **Databases:** MySQL, Postgrees, Oracle, Watermelon Database (Mobile Applications), Prisma ORM.
+- **Databases:** MySQL, MongoDB, Postgrees, Oracle, Watermelon Database (Mobile Applications), Prisma ORM.
 - **Tools:** Docker
 - **Operational Systems:** Linux, Windows
 
