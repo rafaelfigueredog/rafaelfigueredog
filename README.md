@@ -2,16 +2,15 @@
 # Rafael Guimarães
 
 ## About me
-- Currently **Software Engineer** at [Institute SENAI of Technology](https://www.portaldaindustria.com.br/senai/)
-- Graduated **Bachelors degree in Computer Engineering** at [Federal Institute of Education, Science and Technology of Paraíba](https://www.ifpb.edu.br/en)
+- Software Engineer at the [Institute SENAI of Technology](https://www.portaldaindustria.com.br/senai/).
+- Currently enrolled in a **Master's Degree in Computer Science** at the [Federal University of Campina Grande](https://portal.ufcg.edu.br/).
+- Graduated **Bachelors degree in Computer Engineering** at the [Federal Institute of Education, Science and Technology of Paraíba](https://www.ifpb.edu.br/en).
 
 ## Interests
 
 - Software Engineering
 - Data Structures and Algorithms
-- System Design 
-- Design Patterns
-- SOLID Principles.
+- Systems Design 
 - Clean Code
 
 ## Social Profiles
