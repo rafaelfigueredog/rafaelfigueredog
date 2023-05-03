@@ -12,6 +12,7 @@
 - Data Structures and Algorithms
 - Systems Design 
 - Clean Code
+- Clean Architecture
 
 ## Social Profiles
 
