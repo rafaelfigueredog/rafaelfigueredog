@@ -2,7 +2,7 @@
 # Rafael Guimarães
 
 ## About me
-- Software Engineer at the [Institute SENAI of Technology](https://www.portaldaindustria.com.br/senai/).
+- Software Engineer at the [Dataprev](https://www.dataprev.gov.br/).
 - Currently enrolled in a **Master's Degree in Computer Science** at the [Federal University of Campina Grande](https://portal.ufcg.edu.br/).
 - Graduated **Bachelors degree in Computer Engineering** at the [Federal Institute of Education, Science and Technology of Paraíba](https://www.ifpb.edu.br/en).
 
